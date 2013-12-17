@@ -209,12 +209,6 @@ public class Main {
 		System.out.println(boggle.exists("sand"));
 	}
 	
-	public static void testCalculator() {
-		Calculator calculator = new Calculator();
-		String expression = " -2 - ( - 3/3 +4/-2) * - 5 ";
-		System.out.println(expression + " = " + calculator.evaluate(expression));
-	}
-	
 	public static void testChess() {
 		Chess game = new Chess();
 		game.drawBoard();
@@ -807,13 +801,6 @@ public class Main {
 		
 		for (char c : array)
 			System.out.print(c);
-	}
-	
-	public static void testReverseSolve() {
-		double[] list = {2, 2, 3, 4, 4};
-		String[] operators = {"+", "-", "*", "/"};
-		double target = 6.5;
-		System.out.println(ReverseSolve.build(list, operators, target));
 	}
 	
 	public static void testReverseSubstring() {
