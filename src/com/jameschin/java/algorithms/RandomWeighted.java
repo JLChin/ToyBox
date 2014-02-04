@@ -8,7 +8,7 @@ import java.util.Random;
  * Positive/zero integer weights only.
  * Space: O(k) where k is the number of weights.
  * Time: O(1)
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class RandomWeighted {
 	private static final byte BASE = 10;

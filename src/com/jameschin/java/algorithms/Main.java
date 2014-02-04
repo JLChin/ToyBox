@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  * Testing Area
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public class Main {
 	

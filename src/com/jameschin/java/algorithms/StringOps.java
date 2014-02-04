@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 
 /**
  * StringOps
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class StringOps {
 	

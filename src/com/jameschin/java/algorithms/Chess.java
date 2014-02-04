@@ -3,7 +3,7 @@ package com.jameschin.java.algorithms;
 /**
  * Chess
  * //TODO blocking, castling, en passant, promotion, check.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Chess {
 	private ChessPiece[][] board = {{new Rook(false), new Knight(false), new Bishop(false), new Queen(false), new King(false), new Bishop(false), new Knight(false), new Rook(false)},

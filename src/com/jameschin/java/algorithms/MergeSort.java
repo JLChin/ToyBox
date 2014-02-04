@@ -7,7 +7,7 @@ import java.lang.reflect.Array;
  * Type: Comparative, Divide And Conquer, Array Based, Not In-Place, Recursive, Stable
  * Space: O(n)
  * Time: O(n log n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class MergeSort {
 	

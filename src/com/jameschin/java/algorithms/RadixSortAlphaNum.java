@@ -7,7 +7,7 @@ package com.jameschin.java.algorithms;
  * Type: MSD, Non-Comparative, In-Place, Not Stable, Recursive
  * Space: O(k)
  * Time: O(kn) where k is the length of the longest string, n is the number of strings.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class RadixSortAlphaNum {
 

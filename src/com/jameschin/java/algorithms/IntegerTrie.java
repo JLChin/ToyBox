@@ -10,7 +10,7 @@ package com.jameschin.java.algorithms;
  * Search: O(1)
  * Insert: O(1)
  * Delete: O(1)
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class IntegerTrie {
 	private int maxDivisor; // equal in length to the highest number in the trie

@@ -2,7 +2,7 @@ package com.jameschin.java.algorithms;
 
 /**
  * Boggle
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Boggle {
 	private char[][] board;

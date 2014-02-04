@@ -7,7 +7,7 @@ package com.jameschin.java.algorithms;
  * Space Worst: O(n)
  * Time Best: O(n log n)
  * Time Worst: O(n^2) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class QuickSort {
 	

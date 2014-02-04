@@ -6,7 +6,7 @@ package com.jameschin.java.algorithms;
  * Space: O(1)
  * Best: O(n)
  * Worst: O(n * n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class InsertionSort {
 	

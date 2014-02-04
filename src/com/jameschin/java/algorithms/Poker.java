@@ -7,7 +7,7 @@ import java.util.TreeSet;
  * Poker
  * Note some of the checking logic is not speed optimized but left as-is for stand-alone readability.
  * //TODO tie-breakers, scoring, wagering, folding, discard and select, community cards (Texas Hold'Em).
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Poker {
 	private int[] deck = new int[52]; // stores which player holds each card

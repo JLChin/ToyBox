@@ -8,7 +8,7 @@ import java.util.HashMap;
  * O(n^2 log n) by generating a 2D table where each successive row combines into half as many sections.
  * O(n^5/2) by splitting the branch into squareroot(branch length) sections.
  * In each case, the innermost loop can be accomplished in log n or n^1/2 time.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class MartialArtsStaff {
 	

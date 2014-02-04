@@ -9,7 +9,7 @@ import java.util.TreeMap;
  * Space: Less than O(n), where n is the number of strings stored.
  * Search: O(m)
  * Insert: O(m) where m is the length of the string.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Trie {
 	private Node root = new Node();

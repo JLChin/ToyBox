@@ -11,7 +11,7 @@ import java.util.Stack;
  * Search: O(log n)
  * Insert: O(log n)
  * Delete: O(log n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class TreeMap<K extends Comparable<K>, V> {
 	private Node root = null;

@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * Type: LSD, Non-Comparative, Not In-Place, Stable
  * Space: O(n)
  * Time: O(n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class RadixSortLSD {
 	private static final byte BASE = 10;

@@ -13,7 +13,7 @@ import java.util.Set;
  * Search Worst: O(n)
  * Delete Best: O(1)
  * Delete Worst: O(n) where n is the number of contacts.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Contacts {
 	private MinHeap<Integer> userIdMinHeap;

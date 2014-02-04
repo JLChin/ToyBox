@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Find Min: O(1)
  * Insert: O(log n)
  * Delete: O(log n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class MinHeap <E extends Comparable<E>>{
 	private int currentIndex = 0; // array index of next empty slot

@@ -8,7 +8,7 @@ import java.lang.reflect.Array;
  * Space: O(n)
  * Best: O(1)
  * Worst: O(n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class HashMap<K, V> {
 	private Node[] mTable;

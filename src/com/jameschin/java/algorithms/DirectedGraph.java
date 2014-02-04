@@ -7,7 +7,7 @@ import java.util.LinkedList;
 
 /**
  * DirectedGraph
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class DirectedGraph {
 	private HashSet<Node> nodes = new HashSet<Node>();

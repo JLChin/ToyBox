@@ -5,7 +5,7 @@ package com.jameschin.java.algorithms;
  * Type: Comparative, In-Place, Not Stable
  * Space: O(1)
  * Time: O(n * n) where n is the number of elements.
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class SelectionSort {
 	

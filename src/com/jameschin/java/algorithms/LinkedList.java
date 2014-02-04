@@ -14,7 +14,7 @@ import java.lang.reflect.Array;
  * Sort Type: Comparative, In-Place, Recursive, Stable, Highly Parallelizable
  * Sort Space: O(1)
  * Sort Time: O(n log n)
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class LinkedList<E extends Comparable<E>> {
 	private Node head = null;

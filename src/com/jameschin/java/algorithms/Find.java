@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  * Find Algorithms
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Find {
 	

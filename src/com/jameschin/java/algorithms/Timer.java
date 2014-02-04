@@ -2,7 +2,7 @@ package com.jameschin.java.algorithms;
 
 /**
  * Timer
- * @author: James Chin <JamesLChin@gmail.com>
+ * @author: James Chin <jameslchin@gmail.com>
  */
 public final class Timer {
 	private long startTime = 0;
